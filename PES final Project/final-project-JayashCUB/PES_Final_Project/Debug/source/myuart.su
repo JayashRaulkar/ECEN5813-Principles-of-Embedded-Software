@@ -1,0 +1,8 @@
+C:\nxp\myWorkspace_gittest\PES_Final_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\nxp\myWorkspace_gittest\PES_Final_Project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\nxp\myWorkspace_gittest\PES_Final_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/myuart.c:45:6:Init_UART0	32	static
+../source/myuart.c:105:6:UART0_IRQHandler	32	static
+../source/myuart.c:153:6:uart_send_data	16	static
+../source/myuart.c:171:6:uart_send_integer	48	static
+../source/myuart.c:182:5:uart_get_data	8	static
